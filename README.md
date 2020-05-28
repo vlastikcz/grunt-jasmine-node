@@ -1,5 +1,11 @@
-# grunt-jasmine-node
+# @vlastikcz/grunt-jasmine-node
+This is fork of [grunt-jasmine-node](https://github.com/jasmine-contrib/grunt-jasmine-node), which seems not to be maintained anymore. 
 
+The goal of this is to fix **outdated and vulnerable dependencies**, not to develop any new features or fix other non-security bugs.
+
+> No new packages should use this library, it's a temporary solution for legacy applications which are not ready to use another library yet. 
+
+# grunt-jasmine-node
 A grunt.js task to run your jasmine feature suite using jasmine-node.
 
 ## Getting Started
@@ -32,8 +38,7 @@ Help us squash them by submitting an issue that describes how you encountered it
 
 ## Release History
 
-see [GitHub Repository](/s9tpepper/grunt-jasmine-node).
+see [GitHub Repository](/vlastikcz/grunt-jasmine-node).
 
 ## License
-Copyright (c) 2012 "s9tpepper" Omar Gonzalez & contributors.
 Licensed under the MIT license.
